@@ -18,12 +18,6 @@ Welcome to my GitHub profile! I'm William Mitiku, a passionate Software Develope
 ## GitHub Profile Stats
 ![William Mitiku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammitiku&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)
 
-## Projects
-Here are some highlights of my projects:
-1. [Project Name](link): Brief description.
-2. [Project Name](link): Brief description.
-3. [Project Name](link): Brief description.
-
 Feel free to explore more of my projects in the repositories section!
 
 ## Get in Touch
