@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm William Mitiku, a passionate Software Develope
 - 🛢️ MongoDB | MySQL | PostgreSQL
 - 🔧 Git | Docker | Kubernetes
 
-## GitHub Profile Stats
-![William Mitiku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammitiku&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)
 
 Feel free to explore more of my projects in the repositories section!
 
